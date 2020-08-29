@@ -1,0 +1,8 @@
+# Python Program to calculate the square root
+
+
+# To take the input from the user
+n = float(input('Enter a number: '))
+
+num_sqrt = n ** 0.5
+print('The square root of %0.3f is %0.3f'%(n ,num_sqrt))
